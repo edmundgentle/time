@@ -1,0 +1,21 @@
+{
+	"format":"[DAY], [MONTH] [DATE], [FYEAR] at [HOUR]:[MIN][AMPM]",
+	"month":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+	"fullmonth":["January","February","March","April","May","June","July","August","September","October","November","December"],
+	"day":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+	"fullday":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+	"relative":
+		[
+			"A few seconds ago",
+			"About a minute ago",
+			"[MIN] minutes ago",
+			"1 hour ago",
+			"Yesterday at [HOUR]:[MIN][AMPM]",
+			"[HOUR] hours ago",
+			"[FDAY] at [HOUR]:[MIN][AMPM]",
+			"[FMONTH] [DATE], [FYEAR] at [HOUR]:[MIN][AMPM]",
+			"[FMONTH] [DATE] at [HOUR]:[MIN][AMPM]"
+		],
+	"am":"am",
+	"pm":"pm"
+}
