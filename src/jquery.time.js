@@ -65,7 +65,7 @@
 
 				t.html(relative_time);
 			});
-			if(refreshRate>0) {
+			if(settings.refreshRate>0) {
 				setTimeout(function(){$.time(settings);},settings.refreshRate);
 			}
 		}
