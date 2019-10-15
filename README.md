@@ -31,4 +31,4 @@ More settings include:
 Examples
 --------
 
-You can find all the examples live at http://www.edmundgentle.com/snippets/time/examples/
+You can find all the examples live [here](https://edmundgentle.github.io/time/examples/)
