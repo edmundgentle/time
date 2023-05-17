@@ -8,7 +8,7 @@ include('../src/jquery.time.php');
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Time Examples</title>
 		<link rel="stylesheet" href="style.css" />
-		<script src="../lib/jquery-1.9.1.min.js"></script>
+		<script src="../lib/jquery-3.7.0.min.js"></script>
 		<script src="../src/jquery.time.js"></script>
 		<script>
 		$(function() {
